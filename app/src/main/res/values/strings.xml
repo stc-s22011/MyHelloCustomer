@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyHelloCustomer サンプル</string>
+    <string name="tv_title">必要な情報を入力してください</string>
+    <string name="tv_ad">住まい</string>
+    <string name="tv_name">お名前</string>
+    <string name="tv_confirm"></string>
+    <string name="bt_confirm">表示</string>
+    <string name="bt_ad_clear">住まいクリア</string>
+    <string name="bt_name_clear">お名前クリア</string>
+</resources>
